@@ -131,7 +131,7 @@ This tool is for educational and testing purposes only. Users take full responsi
 
 # License
 
-This project is licensed under MIT License. [[See LICENSE file for details]](https://github.com/REXREUS/BanDDoS/blob/main/LICENSE)
+This project is licensed under MIT License. [[See LICENSE file for details]](https://github.com/portafuku/BanDDoS/blob/main/LICENSE)
 
 # Contributing
 
