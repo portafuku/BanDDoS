@@ -1,0 +1,18 @@
+{
+  "name": "ddos-attack-tool",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "crypto-js": "^4.1.1",
+    "dgram": "^1.0.1",
+    "https": "^1.0.0",
+    "net": "^1.0.2",
+    "node-fetch": "^2.7.0",
+    "proxy-agent": "^5.0.0",
+    "ws": "^8.11.0"
+  }
+}
