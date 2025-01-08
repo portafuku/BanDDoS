@@ -53,7 +53,7 @@ A powerful and sophisticated Distributed Denial of Service (DDoS) attack tool bu
 
 ```
 # Clone repository
-git clone https://github.com/REXREUS/BanDDoS.git
+git clone https://github.com/portafuku/BanDDoS.git
 
 # Install dependencies
 npm install
