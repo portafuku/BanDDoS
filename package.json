@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node Src/index.js"
   },
   "dependencies": {
     "abort-controller": "^3.0.0",
